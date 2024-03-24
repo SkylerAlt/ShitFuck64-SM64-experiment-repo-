@@ -1,3 +1,5 @@
+# This is a modified Repo. All credits go to the amazing people who helped in decompilation.
+
 # Super Mario 64
 
 - This repo contains a full decompilation of Super Mario 64 of the following releases: Japan (jp), North America (us), Europe (eu), Shindou (sh) and iQue Player (cn).
